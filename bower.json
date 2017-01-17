@@ -13,7 +13,7 @@
     "n1ql",
     "whitespaces"
   ],
-  "homepage": "https://github.com/zeroturnaround/sql-formatter",
+  "homepage": "https://github.com/atomlipetsk/sql-formatter",
   "ignore": [
     "**/.*",
     "node_modules",
